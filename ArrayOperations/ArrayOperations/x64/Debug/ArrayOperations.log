@@ -1,0 +1,4 @@
+﻿  ArrayOperations.cpp
+C:\Users\lewic\OneDrive\Documents\Lewis\Uni\EEE\Y2\EE273\C++ Files\ArrayOperations\ArrayOperations\ArrayOperations.cpp(19,14): warning C4101: 'sub': unreferenced local variable
+C:\Users\lewic\OneDrive\Documents\Lewis\Uni\EEE\Y2\EE273\C++ Files\ArrayOperations\ArrayOperations\ArrayOperations.cpp(19,22): warning C4101: 'mul': unreferenced local variable
+  ArrayOperations.vcxproj -> C:\Users\lewic\OneDrive\Documents\Lewis\Uni\EEE\Y2\EE273\C++ Files\ArrayOperations\x64\Debug\ArrayOperations.exe
